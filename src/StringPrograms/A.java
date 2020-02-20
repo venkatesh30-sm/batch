@@ -3,6 +3,8 @@ package StringPrograms;
 public class A extends B {
 	public void hai() {
 	System.out.println("bye");
+	System.out.println("adding 1st line");
+	System.out.println("task completed");
 
 	}
 	public void bye() {
